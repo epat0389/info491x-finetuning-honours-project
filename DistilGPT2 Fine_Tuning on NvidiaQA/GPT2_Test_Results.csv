@@ -1,0 +1,2 @@
+,eval_loss,eval_precision,eval_recall,eval_f1,eval_rouge-1,eval_rouge-2,eval_rouge-l,eval_bleu,eval_cosine_similarity,eval_sentence_movers_similarity,eval_latency,eval_memory_usage,eval_runtime,eval_samples_per_second,eval_steps_per_second
+0,0.5548471212387085,0.4895917501245706,0.4419724933261484,0.46456503249400694,0.48136227933293785,0.23536558320529585,0.4642889984354194,0.1574822031615694,0.7716267684760493,0.6310179678653693,148.062837600708,23042.18359375,514.4857,1.353,0.338
